@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="fr" datatype="plaintext" original="file.ext">
+        <body>
+            <trans-unit id="email.registration">
+                <source>Email Registration</source>
+                <target><![CDATA[<html><head><meta charset="UTF-8"></head><body><h3>Bienvenue dans l'application!</h3>
+<p>Bonjour %name%! Vous êtes inscrit dans l'application!</p>
+<p>Veuillez confirmer le compte en cliquant sur ce lien
+<a href="%confirm-link%">lien</a>.
+</p>
+<p>Pour vous connecter, accédez à <a href="%login-link%">page de connexion</a>.</p>
+<p>Merci!</p></body></html>]]></target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

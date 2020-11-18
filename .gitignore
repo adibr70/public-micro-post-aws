@@ -1,0 +1,2 @@
+vendor composer.lock
+.env .env.test node_modules

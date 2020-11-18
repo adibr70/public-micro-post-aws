@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+    <file source-language="en" target-language="nl" datatype="plaintext" original="file.ext">
+        <body>
+
+            <trans-unit id="email.registration">
+                <source>Email Registration</source>
+                <target><![CDATA[<html><head><meta charset="UTF-8"></head><body><h3>Welkom bij de app!</h3>
+                    <p> Hallo %name%! U bent geregistreerd in de app! </p>
+                    <p> Bevestig uw account door hierop te klikken
+                        <a href="%confirm-link%"> link </a>.
+                    </p>
+                    <p> Ga naar de <a href="%login-link%"> inlogpagina </a> om in te loggen. </p>
+                    <p>Bedankt!</p></body></html>]]>
+                </target>
+            </trans-unit>
+
+        </body>
+    </file>
+</xliff>
